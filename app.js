@@ -53,6 +53,3 @@ app.post("/failure",function(req,res){
 app.listen(process.env.PORT || 3000,function(){
     console.log("Server is running at 3000");
 })
-//          7f037b6ff4a8242fee37242aa5387ffa-us11
-//API KEY : 7f037b6ff4a8242fee37242aa5387ffa-us11
-//Unique Id : aff64832e9
